@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cc4b449-c72b-4c3b-88ff-1f908f8d0452": {
+      "ProjectGuid": "1cc4b449-c72b-4c3b-88ff-1f908f8d0452",
+      "DisplayName": "Hero Elf",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
