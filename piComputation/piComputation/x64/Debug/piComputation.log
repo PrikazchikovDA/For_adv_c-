@@ -1,0 +1,3 @@
+﻿  piComputation.cpp
+C:\Users\Acer\source\repos\piComputation\piComputation\piComputation.cpp(16,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  piComputation.vcxproj -> C:\Users\Acer\source\repos\piComputation\x64\Debug\piComputation.exe
