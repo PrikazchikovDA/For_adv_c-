@@ -1,0 +1,4 @@
+﻿  sequences.cpp
+C:\Users\Acer\source\repos\sequences\sequences\sequences.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Acer\source\repos\sequences\sequences\sequences.cpp(91,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  sequences.vcxproj -> C:\Users\Acer\source\repos\sequences\x64\Debug\sequences.exe
