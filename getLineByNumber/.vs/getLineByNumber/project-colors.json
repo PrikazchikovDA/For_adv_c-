@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f288d5f-076e-4c8a-ae45-c78db214c397": {
+      "ProjectGuid": "1f288d5f-076e-4c8a-ae45-c78db214c397",
+      "DisplayName": "getLineByNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
